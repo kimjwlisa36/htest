@@ -474,8 +474,6 @@ public class OrderMain extends JFrame implements ActionListener{
 	@Override
 	public void actionPerformed(ActionEvent e) {
 		//체크박스 생성
-		//JCheckBox chk = (JCheckBox) e.getSource();  
-		
-		//if(chk.)
+	
 	}
 }
